@@ -1,0 +1,81 @@
+BASIC PROGRAMS:
+1) aREA OF SQUARE(A*A)
+2) AREA OF RECTANGLE(L*B)
+3) AREA OF CIRCLE (PI*R*R)
+4) PERIMETER OF SQUARE(4*A)
+5) PERIMETER OF RECTANGLE(2(L*B))
+6) PERIMETER OF CIRCLE( 2*PI*R)
+​
+USING CONTROL STATEMENT(IF,IF ELSE, IF ELIF,NESTED IF)
+​
+1) GREATEST AMONG 2 NUMBERS
+2) SMALLEST AMONG 2 NUMBERS
+3) FIND GIVEN NO. IS ODD OR EVEN
+4) FIND GIVEN NO. IS +VE OR -VE OR ZERO
+5) GREATEST AMONG 3 NUMBERS
+6) SMALLEST AMONG 3 NUMBERS
+7) eB bILL
+8) MARK LIST (TOT,AVG,RES,GRADE)
+9) Find Given year is Leap year or not
+​
+USING LOOPS OR ITERATION
+ 
+1) PRINT 1 TO 100
+2) PRINT 100 TO 1 using while loop
+3) SUM OF SERIES (1 + 2 + 3 +...+10 = 55)
+4) sum of odd numbers in a list
+5) sum of even numbers in a list
+6) display even numbers in a list
+7) display odd numbers in a list
+8) sum of digits:
+ex: 3523
+output: 13 = 4
+ex: 988966 = 46 = 10 = 1
+​
+8.1) sum of odd digits only.
+ex: 987123
+output: 9+7+1+3 = 20 =2 
+8.2) sum of Event digits only.
+ex: 987123
+output: 8+2 = 10 =1
+ 8.3) Reverse number:
+ex: 2894
+output: 4982
+9) sum of series: ( 1-2+3-4+5-6........+n = ? )
+9.1) sum of series:(1+4+9+16+25+36+49+64+81+100 = ?)
+9.2) input: no.1 : 1
+                  no.2: 10
+       ouput: 1 2 3 4 5 6 7 8 9 10
+       input: no.1 : 10
+                  no.2 : 1
+       output: 10 9 8 7 6 5 4 3 2 1
+​
+10)Given number is prime or not
+note: 2 is starting prime no.
+11) display prime number from 1 to 100
+12) given number is Armstrong number or not
+      ex: 153 is a Armstrong number
+        1^3+ 5^3 + 3^3
+        1+125+27 = 153  
+13) display numbers from 1..100 only divisible by 8
+14) display numbers from 1..100 except 50 to 60
+15) fibonacci series.
+     ex: n=7
+     0 1 1 2 3 5 8
+16) Find no. of vowels given string.
+   ex: gowthaman
+   nO. of vowels: 3
+16.1) to print reverse text
+  ex: gowthaman
+  output:namahtwog
+16.2) to print only char's ie.(a to z)
+     ex: go123wt345hama#@$5n
+    output: gowthaman
+17) Find maximum number in a list or array
+18) Find 2nd Maximum number in a list or array
+19) find minimum number in a list or array
+20) find 2nd minimum number in a list or array
+21) find how many negative numbers in a list 
+21.1) find how many positive number in a list
+22) given string is palindrome or not using loop.
+​
